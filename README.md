@@ -6,7 +6,7 @@
 - :orange_book: Focusing on Javascript & EF
 - :hammer: Creator of applications and frameworks
 - :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover
+- :meat_on_bone: Cola lover
 
 <!--
 **Ele-Cat/Ele-Cat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
