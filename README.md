@@ -1,5 +1,5 @@
-<!-- ![github-stats](https://github-readme-stats.vercel.app/api?username=Ele-Cat&show_icons=true&line_height=25&hide_title=true&bg_color=30,f2ffe6,e6ffff) -->
-![github-stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Ele-Cat&theme=vue&hide_title=true)
+![github-stats](https://github-readme-stats.vercel.app/api?username=Ele-Cat&show_icons=true&line_height=25&hide_title=true&bg_color=30,f2ffe6,e6ffff)
+<!-- ![github-stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Ele-Cat&theme=vue&hide_title=true) -->
 ![langs-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ele-Cat&layout=compact)
 
 ### 你好，世界 👋
