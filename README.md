@@ -1,4 +1,5 @@
-![github-stats](https://github-readme-stats.vercel.app/api?username=Ele-Cat&show_icons=true&line_height=25&hide_title=true)
+<!-- ![github-stats](https://github-readme-stats.vercel.app/api?username=Ele-Cat&show_icons=true&line_height=25&hide_title=true&bg_color=30,f2ffe6,e6ffff) -->
+![github-stats]([https://github-readme-stats.vercel.app/api?username=Ele-Cat&show_icons=true&line_height=25&hide_title=true&bg_color=30,f2ffe6,e6ffff](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Ele-Cat&theme=vue))
 ![langs-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ele-Cat&layout=compact)
 
 ### 你好，世界 👋
@@ -7,10 +8,6 @@
 - :hammer: Creator of applications and frameworks
 - :ram: Founder the ObjCCN
 - :meat_on_bone: Cola lover
-
-<img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Ele-Cat&theme=vue" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ele-Cat&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&bg_color=30,f2ffe6,e6ffff" />
 
 #### 🛠️Technology Stack
   
