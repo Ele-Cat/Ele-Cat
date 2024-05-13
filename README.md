@@ -8,24 +8,13 @@
 - :ram: Founder the ObjCCN
 - :meat_on_bone: Cola lover
 
-<!--
-**Ele-Cat/Ele-Cat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ele-Cat&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-Here are some ideas to get you started:
+<img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Ele-Cat&theme=vue" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ele-Cat&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&bg_color=30,f2ffe6,e6ffff" />
+
 #### 🛠️Technology Stack
   
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=Ele-Cat&theme=flat&bg_color=30,f2ffe6,e6ffff&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=2&column=2">
-<img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Ele-Cat&theme=vue" />
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=Ele-Cat&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=2&column=2">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007acc.svg?logo=typescript&logoColor=white&style=flat-square)
